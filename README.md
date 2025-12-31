@@ -20,10 +20,5 @@ I'm a **Computer Engineering student @ Mapúa** obsessed with how AI can solve r
 
 ---
 
-### 📈 Consistency Tracker
-![justinovate's GitHub activity](https://github-readme-stats.vercel.app/api?username=justinovate&show_icons=true&theme=radical)
-
----
-
 ## 🔗 Connect with me
-[LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/j-deleon/)
