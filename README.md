@@ -1,5 +1,5 @@
 # 👋 About Me:
-"Just innovate. One line of code at a time."<br><br>I'm a Computer Engineering student @ Mapúa, passionate about applying AI to solve real-world engineering problems. I enjoy building intelligent systems, optimizing software, and turning ideas into working solutions.<br>
+"Just innovate. One line of code at a time."<br><br>I'm a Computer Engineering student at Mapúa, passionate about applying AI to solve real-world engineering problems. I enjoy building intelligent systems, optimizing software, and turning ideas into working solutions.<br>
 ## ⚡ Quick Stats
 🎓 **Studying:** Computer Engineering
 🎯 **Focus:** AI/ML & Software Systems  
