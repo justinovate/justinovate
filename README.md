@@ -55,7 +55,3 @@ I'm a **Computer Engineering student at Mapúa University** specializing in **Ar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-deleon/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=firefox&logoColor=white)](https://justinovate.github.io/Portfolio-2026/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deleonjustinandre@gmail.com)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justinovate&show_icons=true&theme=tokyonight" alt="Justin's GitHub Stats" />
-</p>
