@@ -2,14 +2,14 @@
 
 > *"Just innovate. One line of code at a time."*
 
-I'm a **Computer Engineering student at Mapúa University** specializing in **Artificial Intelligence**. I build full-stack web platforms (Next.js, React, RAG/LLMs, Supabase) and prototype embedded hardware systems using microcontrollers.
+I'm a **Computer Engineering student at Mapúa University** specializing in **Artificial Intelligence**. I build full-stack web platforms using Next.js, React, RAG/LLMs, and Supabase, alongside embedded hardware systems.
 
 ---
 
 ### ⚡ Quick Stats
 
 * 🎓 **Studying:** Computer Engineering (Specialized in Artificial Intelligence) @ Mapúa University
-* 🎯 **Focus:** Full-Stack AI Platforms, RAG/LLM Systems & Microcontroller Prototyping
+* 🎯 **Focus:** Full-Stack AI Platforms, RAG/LLM Systems & Embedded Systems
 * 🚀 **Goal:** Build scalable, intelligent, and impactful technologies
 * 🌐 **Portfolio:** [justinovate.github.io/Portfolio-2026](https://justinovate.github.io/Portfolio-2026/)
 
@@ -42,10 +42,10 @@ I'm a **Computer Engineering student at Mapúa University** specializing in **Ar
 
 ### 🚀 Featured Execution Logs
 
-| Project | Tech Stack | Description | Link |
+| Project | Tech Stack | Description | Status / Link |
 | :--- | :--- | :--- | :--- |
-| **IEEE-MUSB Member Hub** | `Next.js` `Tailwind` `Supabase` | Full-stack branch management platform with RLS verification and officer workflows. | [Live Hub](https://ieee-musb.vercel.app/) |
-| **Career Path Navigator** | `Python` `RAG/LLMs` `NLP` | Academic & Career intelligence platform with semantic search and personalized mapping. | [Demo](https://career-path-navigator-mu3b.onrender.com) |
+| **IEEE-MUSB Member Hub** | `Next.js` `Tailwind` `Supabase` | Full-stack branch management platform with Supabase RLS verification. | `In Development` |
+| **Career Path Navigator** | `Python` `RAG/LLMs` `NLP` | RAG-powered academic and career guidance platform. | [Demo](https://career-path-navigator-mu3b.onrender.com) |
 | **I3CTS 2027 Conference** | `React` `Vite` `EasyChair` | Official platform for an international computing & technology conference. | [Site](https://i3cts2027.netlify.app/) |
 
 ---
@@ -54,3 +54,8 @@ I'm a **Computer Engineering student at Mapúa University** specializing in **Ar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-deleon/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=firefox&logoColor=white)](https://justinovate.github.io/Portfolio-2026/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaddeleon@mymail.mapua.edu.ph)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=justinovate&show_icons=true&theme=tokyonight" alt="Justin's GitHub Stats" />
+</p>
