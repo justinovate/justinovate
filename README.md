@@ -56,6 +56,4 @@ I'm a **Computer Engineering student at Mapúa University** specializing in **Ar
 [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=firefox&logoColor=white)](https://justinovate.github.io/Portfolio-2026/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaddeleon@mymail.mapua.edu.ph)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justinovate&show_icons=true&theme=tokyonight" alt="Justin's GitHub Stats" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=justinovate&theme=dracula)](https://git.io/streak-stats)
