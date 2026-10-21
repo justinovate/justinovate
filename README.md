@@ -8,10 +8,10 @@ I'm a **Computer Engineering student at Mapúa University** specializing in **Ar
 
 ### ⚡ Quick Stats
 
-* 🎓 **Studying:** Computer Engineering (Specialized in Artificial Intelligence) @ Mapúa University
-* 🎯 **Focus:** Full-Stack AI Platforms, RAG/LLM Systems & Embedded Systems
-* 🚀 **Goal:** Build scalable, intelligent, and impactful technologies
-* 🌐 **Portfolio:** [justinovate.github.io/Portfolio-2026](https://justinovate.github.io/Portfolio-2026/)
+- 🎓 **Studying:** Computer Engineering (Specialized in Artificial Intelligence) @ Mapúa University
+- 🎯 **Focus:** Full-Stack AI Platforms, RAG/LLM Systems & Embedded Systems
+- 🚀 **Goal:** Build scalable, intelligent, and impactful technologies
+- 🌐 **Portfolio:** [justinovate.github.io/Portfolio-2026](https://justinovate.github.io/Portfolio-2026/)
 
 ---
 
@@ -46,7 +46,7 @@ I'm a **Computer Engineering student at Mapúa University** specializing in **Ar
 | :--- | :--- | :--- | :--- |
 | **IEEE-MUSB Member Hub** | `Next.js` `Tailwind` `Supabase` | Full-stack branch management platform with Supabase RLS verification. | `In Development` |
 | **Career Path Navigator** | `Python` `RAG/LLMs` `NLP` | RAG-powered academic and career guidance platform. | [Demo](https://career-path-navigator-mu3b.onrender.com) |
-| **I3CTS 2027 Conference** | `React` `Vite` `EasyChair` | Official platform for an international computing & technology conference. | [Site](https://i3cts2027.netlify.app/) |
+| **I3CTS 2027 Conference** | `React` `Vite` `Tailwind` | Official web platform for an international IEEE computing & technology conference. | [Site](https://i3cts.org) |
 
 ---
 
