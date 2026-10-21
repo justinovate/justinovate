@@ -44,7 +44,7 @@ I'm a **Computer Engineering student at Mapúa University** specializing in **Ar
 
 | Project | Tech Stack | Description | Status / Link |
 | :--- | :--- | :--- | :--- |
-| **IEEE-MUSB Member Hub** | `Next.js` `Tailwind` `Supabase` | Full-stack branch management platform with Supabase RLS verification. | `In Development` |
+| **IEEE-MUSB Member Hub** | `Next.js` `Tailwind` `Supabase` | Full-stack branch management platform with Supabase RLS verification. | [Demo](https://ieee-musb.vercel.app/) |
 | **Career Path Navigator** | `Python` `RAG/LLMs` `NLP` | RAG-powered academic and career guidance platform. | [Demo](https://career-path-navigator-mu3b.onrender.com) |
 | **I3CTS 2027 Conference** | `React` `Vite` `Tailwind` | Official web platform for an international IEEE computing & technology conference. | [Site](https://i3cts.org) |
 
